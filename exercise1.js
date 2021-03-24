@@ -21,6 +21,7 @@ console.log('___________________________________________________');
 
 /*c) Create two variables of type String and add the length of each variable (number of letters
 del string) saving the result the sum of a 3rd variable (use length).*/
+
 console.log('c)');
 var string1 = 'texto numero uno';
 var string2 = 'texto numero dos';

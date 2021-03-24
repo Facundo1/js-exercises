@@ -1,4 +1,5 @@
 /*3) Arrays*/
+
 var meses = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
 /*a) Given the following array: [January, February, March, April, May, June, July, August, September, October, November, December]
 display by console months 5 and 11 (use console.log)*/
