@@ -28,4 +28,4 @@ var stringLengthSum = string1.length + string2.length;
 console.log('the first string length is:', string1.length);
 console.log('the second string length is:', string2.length);
 console.log('the sum of the length of each variable is', stringLengthSum);
-console.log('___________________________________________________');
+console.log('___________________///////////_____________________');
