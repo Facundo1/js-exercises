@@ -6,7 +6,7 @@ substring). */
 
 console.log('c)');
 var tenCharactersString = 'calculator';
-var newSubString = tenCharactersString.substring(7, 10)
+var newSubString = tenCharactersString.substring(7, 10);
 console.log('the new substring is', `"${newSubString}" 
 that contains the last three characters of the initial string`);
 console.log('___________________________________________________');

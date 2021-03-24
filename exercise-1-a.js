@@ -2,6 +2,7 @@
 
 /* a) Create two numeric variables and use the sum operator to save the value of the
 sum of both numbers in a 3rd variable. */
+
 console.log('1)');
 console.log('a)');
 var number1 = 10;

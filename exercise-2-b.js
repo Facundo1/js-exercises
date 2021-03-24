@@ -6,7 +6,7 @@ substring). */
 
 console.log('b)');
 var tenCharactersString = 'television';
-var newSubString = tenCharactersString.substring(0, 5)
+var newSubString = tenCharactersString.substring(0, 5);
 console.log('the new substring is', `"${newSubString}" that contains
  the first five characters of the initial string`);
 console.log('___________________________________________________');

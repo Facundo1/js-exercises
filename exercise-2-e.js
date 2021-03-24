@@ -6,6 +6,6 @@ indexOf). */
 
 console.log('e)');
 var tenCharactersString = 'green apple';
-var whiteSpace = tenCharactersString.indexOf(' ')
+var whiteSpace = tenCharactersString.indexOf(' ');
 console.log('the position of the white space in the "green apple" text is :', whiteSpace);
 console.log('___________________________________________________');

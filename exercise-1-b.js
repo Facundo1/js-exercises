@@ -2,7 +2,8 @@
 
 /* b) Create two variables of type String and concatenate them saving the result in a 3rd
 variable. */
-console.log('b)')
+
+console.log('b)');
 var name = 'Facundo';
 var lastname = 'Loberse';
 var fullname = name + lastname;
