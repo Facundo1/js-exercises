@@ -16,7 +16,7 @@ console.log('b)')
 var name = 'Facundo';
 var lastname = 'Loberse';
 var fullname = name + lastname;
-console.log('the name of the person concatenated is', fullname);
+console.log('the fullname of the person concatenated is', fullname);
 console.log('___________________________________________________');
 
 /*c) Create two variables of type String and add the length of each variable (number of letters
