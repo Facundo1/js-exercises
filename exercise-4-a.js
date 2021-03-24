@@ -1,4 +1,4 @@
-// 4) if/else*
+// 4) if/else
 
 /* a) Create a random number between 0 and 1 using the Math.random () function, if the value is
 greater than or equal to 0.5 shows an alert with the message "Greater than 0.5" and if it is not a

@@ -5,8 +5,8 @@ with the first letter in uppercase and the others in lowercase. Save the result 
 a new variable (use substring, toUpperCase, toLowerCase, and the + operator). */
 
 console.log('d)');
-var tenCharactersString3 = 'neighborhood';
-var newCapitalSubString = tenCharactersString3.substring(0, 1).toUpperCase()
-    + tenCharactersString3.substring(1, 12).toLowerCase();
+var tenCharactersString = 'neighborhood';
+var newCapitalSubString = tenCharactersString.substring(0, 1).toUpperCase()
+    + tenCharactersString.substring(1, 12).toLowerCase();
 console.log('the new string with capital letter is', `"${newCapitalSubString}"`);
 console.log('___________________________________________________');

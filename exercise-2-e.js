@@ -4,8 +4,8 @@
 Find the position of the first whitespace and save it to a variable (use
 indexOf). */
 
-console.log('d)');
-var tenCharactersString4 = 'green apple';
-var whiteSpace = tenCharactersString4.indexOf(' ')
+console.log('e)');
+var tenCharactersString = 'green apple';
+var whiteSpace = tenCharactersString.indexOf(' ')
 console.log('the position of the white space in the "green apple" text is :', whiteSpace);
 console.log('___________________________________________________');

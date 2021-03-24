@@ -1,4 +1,4 @@
-// 4) if/else*
+// 4) if/else
 
 /* b) Create an "Age" variable that contains an integer between 0 and 100 and displays the
 following alert messages:
